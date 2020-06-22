@@ -1,0 +1,12 @@
+section#contenido{
+    width: 1000px;
+    margin: auto;
+}
+iframe#frame-spec{
+    width: 450px;
+    height: 280px;
+    border: none;
+    margin-top: 50px;
+    margin-left: 40px;
+    overflow: hidden;
+}
